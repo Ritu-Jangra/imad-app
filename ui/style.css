@@ -10,7 +10,7 @@ body {
 }
 
 .text-big {
-    background-color:#AA8EB5;
+    border-bottom: 1px solid #E4BB97;
     font-size: 300%;
 }
 
