@@ -1,11 +1,10 @@
 body {
-    font-family:blue;
+    font-family:orange;
     background-color: lightgrey;
     margin-top: 75px;
 }
 
 .center {
-    background-color:blue;
     color:orange;
     text-align: center;
 }
