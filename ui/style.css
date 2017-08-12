@@ -5,6 +5,7 @@ body {
 }
 
 .center {
+    background-color:blue;
     color:orange;
     text-align: center;
 }
