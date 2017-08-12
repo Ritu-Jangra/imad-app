@@ -1,11 +1,11 @@
 body {
-    font-family: sans-serif;
+    font-family:blue;
     background-color: lightgrey;
     margin-top: 75px;
 }
 
 .center {
-    color:#444444;
+    color:orange;
     text-align: center;
 }
 
